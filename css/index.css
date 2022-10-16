@@ -72,6 +72,7 @@ header .content_2{
     align-items: center;
     height:44px;
     box-sizing: border-box;
+    border-radius: 3px;
 }
 header .content_2 ul{
     display: flex;
@@ -95,6 +96,7 @@ header .content_2 a:hover{
 .section_1 img{
     width: 940px;
     padding-bottom: 30px;
+    border-radius: 3px;
 }
 
 /* ★section_2★ */
@@ -121,6 +123,7 @@ header .content_2 a:hover{
 }
 .section_2 .L_title{
     margin-right: 50px;
+    border-radius: 3px;
 }
 
 .section_2 .title h2{
@@ -138,10 +141,14 @@ header .content_2 a:hover{
     width: 140px;
     padding: 0px 12px ;
 }
+.section_2 .img_three img{
+    border-radius: 3px;
+}
 
 /* 右半部 */
 .section_2 .R_title {
     margin-bottom:15px;
+    border-radius: 3px;
 }
 
 .section_2 .Txt_{
@@ -149,6 +156,7 @@ header .content_2 a:hover{
     background-color: #f7fbda;
     padding: 16px 16px 16px 15px;
     box-sizing: border-box;
+    border-radius: 3px;
 }
 
 .section_2 .up {
