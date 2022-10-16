@@ -139,10 +139,10 @@ header .content_2 a:hover{
 }
 .section_2 .img_three .img-2{
     width: 140px;
-    padding: 0px 12px ;
+    margin: 0px 12px ;
 }
 .section_2 .img_three img{
-    border-radius: 3px;
+    border-radius: 3px !important;
 }
 
 /* 右半部 */
